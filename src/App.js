@@ -3,6 +3,8 @@ import { makeStyles } from '@material-ui/core/styles';
 import { CssBaseline } from '@material-ui/core';
 import Header from './components/Header';
 import PlaceToVisit from './components/PlaceToVisit';
+// import FindLove from './screen/FindLove';
+
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -17,6 +19,7 @@ export default function App() {
   return (
     <div className={classes.root}>
       <CssBaseline />
+      {/* <FindLove /> */}
       <Header />
       <PlaceToVisit />
     </div>

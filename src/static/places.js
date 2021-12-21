@@ -13,13 +13,6 @@ const places = [
     imageUrl: process.env.PUBLIC_URL + '/assets/space.jpg',
     time: 1500,
   },
-  {
-    title: 'Univ',
-    description:
-      "L'extrait standard de Lorem Ipsum utilisé depuis le XVIè siècle est reproduit ci-dessous pour les curieux. Les sections 1.10.32 et 1.10.33 du De Finibus Bonorum et Malorum de Cicéron sont aussi reproduites dans leur version originale, accompagnée de la traduction anglaise de H. Rackham (1914)",
-    imageUrl: process.env.PUBLIC_URL + '/assets/orion.jpg',
-    time: 1500,
-  },
 ];
 
 export default places;

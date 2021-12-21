@@ -17,13 +17,13 @@ const useStyles = makeStyles({
     height: 440,
   },
   title: {
-    fontFamily: 'Nunito',
+    fontFamily: 'Montserrat',
     fontWeight: 'bold',
     fontSize: '2rem',
     color: '#fff',
   },
   desc: {
-    fontFamily: 'Nunito',
+    fontFamily: 'Montserrat',
     fontSize: '1.1rem',
     color: '#ddd',
   },
